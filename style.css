@@ -1,0 +1,166 @@
+body{
+    background-color: #b7d98b;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.firstwhitespace{
+    background-color: white;
+    width: fit-content;
+    margin-top: 100px;
+    margin-left: 489px;
+    margin-right: 515px;
+}
+
+.whitespace{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 20px;
+    
+    width: fit-content;
+    
+    
+}
+p{
+    font-weight: 400;
+}
+h1{
+  font-weight: 800;
+    font-size: 2cm;
+}
+h2{
+  font-weight: 700;
+}
+#test{
+    margin-top: 61px;
+    margin-left: 650px;
+}
+#plattegrond{
+    margin-top: 20px;
+    margin-left: 385px;
+    margin-bottom: 160px;
+}
+#ness{
+margin-bottom: 98px;
+margin-left: 650px;
+}
+#buren{
+margin-top: 226px;
+margin-left: 765px;
+}
+#ballum{
+    margin-top: 348px;
+    margin-left: 765px;
+}
+#hollum{
+    margin-top: 288px;
+    margin-left: 765px;
+}
+#bork{
+  margin-top: 20px;
+    margin-left: 600px;
+    margin-bottom: 98px;
+}
+#wagenborg{
+    margin-left: 679px;
+}
+#underbutton{
+  margin-bottom: 98px;
+    margin-left: 595px;
+}
+
+#whitespaec{
+  
+  background-color: white;
+    width: fit-content;
+margin-right: 26px;
+  margin-left: 69px;
+   
+}
+
+
+ #picture2{
+    margin-left: 74px;
+   float:left; 
+   
+}
+
+
+
+.nav {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  .nav li {
+    float: left;
+  }
+  
+  .nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  .nav li a:hover {
+    background-color: #111;
+  }
+  #buttoncolumn{
+    grid-template-rows: auto auto;
+    display: grid;
+  }
+  #buttonvvv{
+    grid-row-start: 1;
+  }
+  #buttonbooking{
+    grid-row-start: 2;
+  }
+  nav.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.1);
+  }
+  .hoeameland{
+    background-image: url(Fotos/vuurtoren\ alweer.jpg);
+    width: 101%;
+    background-size: cover;
+  background-position: center;
+margin-bottom: 200px;
+  }
+  #left{
+    grid-column-start: 1;
+  }
+  #right{
+    margin-top: 15px;
+    grid-column-start: 2;
+  }
+  #columnsagain{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+  #awfhjkl{
+    margin-bottom: 45px;
+  }
+  #esgrvhjklnsdcfhjkldcsgfhndsfvhjkdsgrtvhjkdgfhjkdgfhjkl{
+    margin-bottom: 60px;
+  }
+  #wower{
+    margin-top: 485px;
+    margin-bottom: 60px;
+  }
